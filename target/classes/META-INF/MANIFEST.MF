@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: products-transaction-system
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: madhu
+Implementation-Vendor-Id: products-transaction-system
+Build-Jdk: 1.8.0_301
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/products-transaction-system
+Created-By: Maven Integration for Eclipse
+

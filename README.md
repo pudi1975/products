@@ -11,3 +11,12 @@ group code or Client number
 
 By using Postman tool you can get product transactional details as CSV file format
 or Json Objects
+
+
+Pre-request for this PTMS Software to Develop and run the application. Need to Install the following Software.
+1)Java 1.8
+2)Spring-boot 2.02
+3)Kafka_2.12-2.7.1
+4)PostgreSQL 12.3
+5)Eclipse
+
